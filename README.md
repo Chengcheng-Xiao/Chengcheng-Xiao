@@ -3,7 +3,7 @@
 <!--
 **Chengcheng-Xiao/Chengcheng-Xiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<img align="right" width="400" height="400" src="https://github.com/Chengcheng-Xiao/Chengcheng-Xiao/blob/master/at3.gif">
+<img align="right" width="300" height="300" src="https://github.com/Chengcheng-Xiao/Chengcheng-Xiao/blob/master/at3.gif">
 
 - 🔭 I’m currently working on: Ferroic 2D materials / various DFT methods.
 - 🌱 I’m currently learning: everything related to my research projects.
