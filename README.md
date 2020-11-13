@@ -17,5 +17,5 @@ My name is Chengcheng Xiao (肖承诚) and I'm currently a PhD student @ Imperia
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chengcheng-Xiao&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chengcheng-Xiao&show_icons=true&theme=vue )](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chengcheng-Xiao&show_icons=true&theme=vue )](https://github.com/anuraghazra/github-readme-stats) -->
 
