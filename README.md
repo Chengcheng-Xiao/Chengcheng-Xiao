@@ -3,7 +3,7 @@
 <!--
 **Chengcheng-Xiao/Chengcheng-Xiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<img align="right" width="200" height="200" src="https://github.com/Chengcheng-Xiao/Chengcheng-Xiao/blob/master/at3.gif">
+<img align="right" width="250" height="250" src="https://github.com/Chengcheng-Xiao/Chengcheng-Xiao/blob/master/at3.gif">
 
 My name is Chengcheng Xiao (肖承诚) and I'm currently a PhD student @ Imperial College London.
 
@@ -14,6 +14,7 @@ My name is Chengcheng Xiao (肖承诚) and I'm currently a PhD student @ Imperia
 - 📫 How to reach me: 
   - E-Mail  : iconxicon@me.com
   - Twitter : @iconxicon
+  - WeChat  : ICONXICON 
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chengcheng-Xiao&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats) -->
 
