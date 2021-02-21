@@ -5,7 +5,7 @@
 
 <img align="right" width="250" height="250" src="https://github.com/Chengcheng-Xiao/Chengcheng-Xiao/blob/master/at3.gif">
 
-My name is Chengcheng Xiao (肖承诚) and I'm currently a PhD student @ Imperial College London.
+My name is Chengcheng Xiao (肖承诚), currently a PhD student @ Imperial College London.
 
 - 🔭 I’m currently working on: Ferroic 2D materials / various DFT methods.
 - 🌱 I’m currently learning: Stuff related to my project (and how to survive this winter...)
