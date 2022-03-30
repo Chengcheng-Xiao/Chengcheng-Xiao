@@ -1,11 +1,10 @@
 ### Hello there stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-<!--
-**Chengcheng-Xiao/Chengcheng-Xiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-My name is Chengcheng Xiao (肖承诚), currently a PhD student @ Imperial College London.
+<!--**Chengcheng-Xiao/Chengcheng-Xiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <img align="right" width="250" height="250" src="https://github.com/Chengcheng-Xiao/Chengcheng-Xiao/blob/master/at3.gif">
+
+My name is Chengcheng Xiao (肖承诚), currently a PhD student @ Imperial College London.
 
 - 🔭 I’m currently working on: 2D materials | various DFT methods.
 - 🌱 I’m currently learning: QFT | Green's function method.
