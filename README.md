@@ -2,7 +2,7 @@
 
 <!--**Chengcheng-Xiao/Chengcheng-Xiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<img align="right" width="200" height="200" src="https://github.com/Chengcheng-Xiao/Chengcheng-Xiao/blob/master/at3.gif">
+<img align="right" width="250" height="250" src="https://github.com/Chengcheng-Xiao/Chengcheng-Xiao/blob/master/at3.svg">
 
 My name is Chengcheng Xiao (肖承诚), currently a PhD student @ Imperial College London.
 
