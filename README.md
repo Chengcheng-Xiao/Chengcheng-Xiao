@@ -1,4 +1,4 @@
-### Hello there stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+### Hello there stranger!  <img width="25" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" >
 
 <!--**Chengcheng-Xiao/Chengcheng-Xiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
