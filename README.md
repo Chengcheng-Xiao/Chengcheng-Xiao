@@ -13,7 +13,7 @@ My name is Chengcheng Xiao (肖承诚), currently a PhD student @ Imperial Colle
 - 📫 How to reach me: 
   - Mail    : iconxicon@me.com
   - Twitter : [@iconxicon](https://twitter.com/iconxicon)
-  - WeChat  : [ICONXICON](https://twitter.com/iconxicon)
+  - WeChat  : [ICONXICON](https://raw.githubusercontent.com/Chengcheng-Xiao/Chengcheng-Xiao/master/WeChat_ID.JPG)
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chengcheng-Xiao&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats) -->
 
