@@ -4,7 +4,7 @@
 
 <img align="right" width="250" height="250" src="https://github.com/Chengcheng-Xiao/Chengcheng-Xiao/blob/master/at3.svg">
 
-My name is Chengcheng Xiao (肖承诚), currently a PhD student @ Imperial College London.
+My name is Chengcheng Xiao (肖承诚), a postdoctoral researcher @ Imperial College London.
 
 - 🔭 I’m currently working on: 2D materials | various DFT methods.
 - 🌱 I’m currently learning: QFT | Green's function method.
