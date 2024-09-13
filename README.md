@@ -2,8 +2,8 @@
 
 <!--**Chengcheng-Xiao/Chengcheng-Xiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<!-- the following image alignment seems to stop working. https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d -->
-<!-- <img align="right" width="250" height="250" src="https://github.com/Chengcheng-Xiao/Chengcheng-Xiao/blob/master/at3.svg">-->
+<!-- the following image alignment seems to be working again. https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d -->
+<img align="right" width="250" height="250" src="https://github.com/Chengcheng-Xiao/Chengcheng-Xiao/blob/master/at3.svg">
 
 My name is Chengcheng Xiao (肖承诚), a postdoctoral researcher @ Imperial College London.
 
