@@ -5,7 +5,8 @@
 <!-- the following image alignment seems to be working again. https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d -->
 <img align="right" width="250" height="250" src="https://github.com/Chengcheng-Xiao/Chengcheng-Xiao/blob/master/at3.svg">
 
-My name is Chengcheng Xiao (肖承诚), a postdoctoral researcher @ Imperial College London.
+My name is Chengcheng Xiao (肖承诚).
+<!-- , a postdoctoral researcher @ Imperial College London. -->
 
 - 🔭 I’m currently working on: 2D materials | various DFT methods.
 - 💬 Ask me about [my reseasrch](https://scholar.google.com/citations?user=ubcOIPMAAAAJ&hl=en) and [my codes](https://github.com/Chengcheng-Xiao?tab=repositories). 
