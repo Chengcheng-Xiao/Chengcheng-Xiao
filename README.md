@@ -8,7 +8,7 @@
 My name is Chengcheng Xiao (肖承诚).
 <!-- , a postdoctoral researcher @ Imperial College London. -->
 
-- 🔭 I’m currently working on: 2D materials | various DFT methods.
+<!-- - 🔭 I’m currently working on: 2D materials | various DFT methods. -->
 - 💬 Ask me about [my reseasrch](https://scholar.google.com/citations?user=ubcOIPMAAAAJ&hl=en) and [my codes](https://github.com/Chengcheng-Xiao?tab=repositories). 
 - 📃 Check out [my blog](https://chengcheng-xiao.github.io).
 - 📫 How to reach me: 
